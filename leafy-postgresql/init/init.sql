@@ -96,7 +96,7 @@ VALUES
 ('아레카야자', '야자', '아레카야자는 열대 실내 장식용 식물로 유명하며, 큰 잎과 세련된 모습으로 인기가 많습니다.', 'https://leafyapplicationfiles.blob.core.windows.net/plantimages/아레카야자.jpg', 18, 27, 40, 60, 7),
 ('파키라', '실내식물', '파키라는 견고하고 관리하기 쉬운 식물로, 두꺼운 줄기와 큰 둥글둥글한 잎이 특징입니다.', 'https://leafyapplicationfiles.blob.core.windows.net/plantimages/파키라.jpg', 15, 28, 40, 60, 10),
 ('유칼립투스', '나무', '유칼립투스는 상쾌한 향기와 아름다운 잎 모양으로 많은 사랑을 받는 식물입니다. 특히 건조한 공간에서도 잘 자라기 때문에 인기가 높습니다.', 'https://leafyapplicationfiles.blob.core.windows.net/plantimages/유칼립투스.jpg', 10, 25, 30, 55, 14),
-('피나타', '실내식물', '피나타는 높은 곳에서 뻗어 나오는 날렵한 잎으로 장식성이 높은 식물입니다. 거실이나 베란다 같은 잘 통풍되는 장소에 두기 좋습니다.', 'https://leafyapplicationfiles.blob.core.windows.net/plantimages/피나타.jpg', 15, 30, 40, 70, 12);
+('피나타', '실내식물1', '피나타는 높은 곳에서 뻗어 나오는 날렵한 잎으로 장식성이 높은 식물입니다. 거실이나 베란다 같은 잘 통풍되는 장소에 두기 좋습니다.', 'https://leafyapplicationfiles.blob.core.windows.net/plantimages/피나타.jpg', 15, 30, 40, 70, 12);
 
 -- User_Plants 테이블에 데이터 삽입
 INSERT INTO user_plants (user_id, plant_id, plant_nickname) VALUES
